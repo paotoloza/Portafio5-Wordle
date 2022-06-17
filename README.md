@@ -1,2 +1,2 @@
-# Portafio5-Wordle
+# Portafolio5-Wordle
 Part 5 Portafolio Platzi
