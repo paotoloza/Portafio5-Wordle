@@ -1,0 +1,19 @@
+{
+  "name": "portafolio5-wordle",
+  "version": "1.0.0",
+  "description": "Part 5 Portafolio Platzi",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paotoloza/Portafolio5-Wordle.git"
+  },
+  "author": "paotoloza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paotoloza/Portafolio5-Wordle/issues"
+  },
+  "homepage": "https://github.com/paotoloza/Portafolio5-Wordle#readme"
+}
